@@ -21,6 +21,7 @@
 ### 👨‍💻 Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=c,java,html,css,tailwind,js,ts,cs&perline=8)
+<br/>
 ![Tech Stack](https://skillicons.dev/icons?i=express,dotnet,mongodb,mysql,github,postman&perline=6)
 
 ### ℹ️ My Info
