@@ -1,14 +1,10 @@
-<h2 align="left">Hello! I am Duc.</h2>
+<h2 align="left">Hello! I am Duc ❤️‍🔥</h2>
 
 ### 😁 About Me
 
 - **Junior student** currently studying **Software Engineering** at university.
 - Passionate about **exploring and learning** new technologies.
 - Currently learning and building backend systems with **ASP.NET Core** and **Node.js**.
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VoVietMinhDuc.VoVietMinhDuc&left_color=blueviolet&right_color=hotpink"  />
 
 ### 📶 GitHub Stats
 
