@@ -1,40 +1,58 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hello! I am Duc.</h2>
+
+### 😁 About Me
+- **Junior student** currently studying **Software Engineering** at university.
+- Passionate about **exploring and learning** new technologies.
+- Currently learning and building backend systems with **ASP.NET Core** and **Node.js**.
 
 ###
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VoVietMinhDuc.VoVietMinhDuc&left_color=blueviolet&right_color=hotpink"  />
 
-###
+### 📶 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VoVietMinhDuc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=VoVietMinhDuc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoVietMinhDuc&layout=compact" height="300" alt="languages graph"  />
+    <img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VoVietMinhDuc&show_icons=true&locale=en&layout=compact&langs_count=6&border_radius=16.5&theme=vision-friendly-dark" alt="" />
+  <img width="50%"src="https://github-readme-stats.vercel.app/api?username=VoVietMinhDuc&show_icons=true&custom_title=KietMN&locale=en&hide=stars,prs&include_all_commits=true&border_radius=16.6&theme=vision-friendly-dark" alt="" />
+  <img src="https://streak-stats.demolab.com?user=VoVietMinhDuc&locale=en&mode=daily&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
+### 👨‍💻 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <br/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <br/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <br/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
 </div>
 
-###
+### ℹ️ My Info
 
 <div align="left">
   <a href="https://www.linkedin.com/in/duc-vo-viet-minh-930a87192/" target="_blank">
@@ -45,7 +63,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/VoVietMinhDuc/VoVietMinhDuc/output/snake.svg" alt="Snake animation" />
 
 ###
