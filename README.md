@@ -36,17 +36,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <br/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <br/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <br/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
@@ -60,8 +57,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-###
