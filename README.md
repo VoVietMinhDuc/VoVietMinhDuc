@@ -8,11 +8,7 @@
 
 ### 📶 GitHub Stats
 
-<div align="center">
-    <img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VoVietMinhDuc&show_icons=true&locale=en&layout=compact&langs_count=6&border_radius=16.5&theme=vision-friendly-dark" alt="" />
-  <img width="50%"src="https://github-readme-stats.vercel.app/api?username=VoVietMinhDuc&show_icons=true&custom_title=KietMN&locale=en&hide=stars,prs&include_all_commits=true&border_radius=16.6&theme=vision-friendly-dark" alt="" />
-  <img src="https://streak-stats.demolab.com?user=VoVietMinhDuc&locale=en&mode=daily&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+Updating...
 
 ### 👨‍💻 Tech Stack
 
