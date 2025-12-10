@@ -8,7 +8,7 @@
 
 ### 📶 GitHub Stats
 
-Updating...
+[![GitHub Stats](https://github-stats-eta-brown.vercel.app/api/stats?username=VoVietMinhDuc)](https://github-stats-eta-brown.vercel.app/api/stats?username=VoVietMinhDuc)
 
 ### 👨‍💻 Tech Stack
 
